@@ -1,5 +1,5 @@
 const API_KEY = "d5c08c53fba74e669fb145913233107";
-const BASE_URL = "http://api.weatherapi.com/v1";
+const BASE_URL = "https://api.weatherapi.com/v1";
 
 const getForecast = async (location) => {
   try {
